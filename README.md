@@ -10,8 +10,6 @@ Connect with me on social media and explore my work:
 [![Twitter](https://img.shields.io/twitter/follow/KalyanM45?style=social)](https://twitter.com/KalyanM45)
 [![Sponsor Hema Kalyan Murapaka](https://img.shields.io/badge/Sponsor-Hema_Kalyan-28a745?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/KalyanMurapaka45)
 
-**Special Thanks to GitHub Sponsors**
-
 ## About The Project
 
 ## Library Requirements
