@@ -1,4 +1,4 @@
-# Project Title
+# Gold Commodity Price Prediction
 
 By [<b>Hema Kalyan Murapaka</b>](https://hemakalyan.netlify.app)
 
